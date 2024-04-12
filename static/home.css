@@ -1,0 +1,58 @@
+.container-diego {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.left-container-gato{
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.right-container-santi{
+
+    flex-direction: column;
+    height: 100vh;
+    width: 50%;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.left-container{
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.right-container{
+
+    flex-direction: column;
+    height: 100vh;
+    width: 40%;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.left-container-p{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-top: 30px;
+
+}
+
+.input-correo{
+    width: 300px;
+    background-color: #28a74573;
+    border-radius: 5px;
+}
+.conductor{
+    margin-top: 50px;
+}
